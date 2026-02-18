@@ -5,6 +5,11 @@
 // ..as initial position 
 // Make sure to disconnect any power input or output while programming the nano
 
+/*
+Program Uploded On :- 18-feb-2026
+Developed By :- K Madhu Mohan Chary
+For More Details :- madhu@marutdrones.com
+*/
 
 const int pwm_read_pin = 9 ; //d9 pin 
 const int in1_pin = 8;
