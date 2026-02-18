@@ -1,4 +1,5 @@
 ## Circuit 
+- Check the pdf file above for clear understanding
 <img width="1071" height="763" alt="image" src="https://github.com/user-attachments/assets/b645a04f-e212-4ef8-8a58-9e18c551e76d" />
 
 ## Program
